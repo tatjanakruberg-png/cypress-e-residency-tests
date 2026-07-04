@@ -1,4 +1,4 @@
-# Cypress automaattestid – e-Residency veebileht
+# Cypress automaattestid - e-Residency veebileht
 
 ## Projekti kirjeldus
 
@@ -10,7 +10,7 @@ alammenüü lingi kaudu.
 
 ## Kasutatud tehnoloogiad
 
-- [Cypress](https://www.cypress.io/)
+- Cypress
 - JavaScript
 - Node.js
 
@@ -61,7 +61,7 @@ Automaattest kontrollib järgmisi samme:
 
 1. Avatakse e-Residency avaleht.
 2. Nõustutakse küpsiste kasutamisega.
-3. Leitakse päises menüü "Why e-Residency?".
+3. Leitakse menüü "Why e-Residency?".
 4. Kontrollitakse, et menüü on algselt suletud.
 5. Avatakse rippmenüü.
 6. Kontrollitakse, et menüü avanes edukalt.
@@ -75,7 +75,4 @@ Automaattest kontrollib järgmisi samme:
 - Enne testi alustamist suletakse küpsiste bänner, et see ei mõjutaks testi
   täitmist.
 - Test on kirjutatud nii, et seda saab kasutada regressioonitestimise osana.
-
-## Autor
-
-Tatjana Kruberg
+  
